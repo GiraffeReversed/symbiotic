@@ -1,6 +1,6 @@
 [submodule "dg"]
 	path = dg
-	url = https://github.com/mchalupa/dg
+	url = https://github.com/GiraffeReversed/dg
 	ignore = untracked
 [submodule "sbt-slicer"]
 	path = sbt-slicer
@@ -8,7 +8,7 @@
 	ignore = untracked
 [submodule "sbt-instrumentation"]
 	path = sbt-instrumentation
-	url = https://github.com/staticafi/sbt-instrumentation
+	url = https://github.com/GiraffeReversed/sbt-instrumentation
 	ignore = untracked
 [submodule "klee"]
 	path = klee
