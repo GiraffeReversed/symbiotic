@@ -62,7 +62,7 @@ git_clone_or_pull()
 
 	REPO="$1"
 	FOLDER="$2"
-	shift;shift
+	shift;shift || true;
 
 	if [ -d "$FOLDER" ]; then
 		if [ "x$UPDATE" = "x1" ]; then
